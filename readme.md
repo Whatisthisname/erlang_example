@@ -25,3 +25,4 @@ client_await_timer_test() ->
     ?assertEqual(timer_finished, Status1),
     client:stop(Pid).
 ```
+Run `make test` to compile and run tests, and `make analyze` to cross-reference indicated function signatures with their actual use.
