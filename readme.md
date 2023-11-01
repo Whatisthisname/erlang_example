@@ -1,0 +1,1 @@
+Erlang exam preparation, using Dialyzer for type-checking and eunit for testing.
